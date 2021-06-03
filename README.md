@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michel Krecké</h1>
-<h3 align="center">An interested app/web dev nerd from Germany.</h3>
+<h3 align="center">Interested app/web dev nerd from Germany.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk36fyvy&label=Profile%20views&color=0e75b6&style=flat" alt="mk36fyvy" /> </p> -->
 
@@ -89,12 +89,12 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk36fyvy&show_icons=true&locale=en&layout=compact" alt="mk36fyvy" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk36fyvy&show_icons=true&locale=en&layout=compact" alt="mk36fyvy" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk36fyvy&show_icons=true&locale=en" alt="mk36fyvy" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk36fyvy&show_icons=true&locale=en" alt="mk36fyvy" /></p> -->
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk36fyvy&" alt="mk36fyvy" />
 </p>
