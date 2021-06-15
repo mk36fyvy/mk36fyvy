@@ -89,9 +89,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk36fyvy&show_icons=true&locale=en&layout=compact" alt="mk36fyvy" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk36fyvy&show_icons=true&locale=en&layout=compact" alt="mk36fyvy" /> -->
+<!-- </p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk36fyvy&show_icons=true&locale=en" alt="mk36fyvy" /></p> -->
 
