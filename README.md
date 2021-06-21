@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mk36fyvy" alt="mk36fyvy" /></a> </p> -->
 
--   🔭 I’m currently working on **Virtual waiting room (Flutter, private repo)**
+-   🔭 I’m currently working on **Virtual waiting room (Flutter, private repo), a comfortable to use TODO webapp in React**
 
 -   🌱 I’m currently learning **React, CSS3**
 
